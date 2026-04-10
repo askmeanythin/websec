@@ -4,7 +4,7 @@ import './App.css';
 export default function WebCheck() {
 
   useEffect(() => {
-    const GROQ_API_KEY = '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';
+    const GROQ_API_KEY = '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';
     const GROQ_MODEL   = 'llama-3.3-70b-versatile';
 
     function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
