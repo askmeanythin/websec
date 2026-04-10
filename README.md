@@ -7,5 +7,5 @@ step 2:
 cd websec
 
 step 3:
-npm install
+npm install \n
 npm start
